@@ -1,2 +1,7 @@
 project/target
 target
+
+# Intellij
+# https://qiita.com/aki3061/items/1f668dd0d1bee15b56f0
+.idea/**/workspace.xml
+.idea/**/tasks.xml
